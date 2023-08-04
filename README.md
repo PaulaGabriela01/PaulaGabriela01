@@ -1,7 +1,7 @@
 # Bem vindo(a)
 ---
 - 👋 Oi, eu sou @PaulaGabriela01
-- 👀 Estou emteressada em (desenvolver jogos, sites e aplicativos) 
+- 👀 Estou enteressada em (desenvolver jogos, sites e aplicativos) 
 - 🌱 Estou aprendendo Java Script, CSS e HTML 
 - 💞️ Estou trabalhando nos projetos de pensamento computacional 
 - 📫 Você pode me encontrar no paula.couto.martins@escola.pr.gov.gov
